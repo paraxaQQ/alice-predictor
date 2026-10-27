@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+local/
+words.txt
+words1.txt
+*.exe
+*.dll
+*.wav
+*.zip

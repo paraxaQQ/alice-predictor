@@ -1,0 +1,17 @@
+{
+  "source_executable_sha256": "157ab8369957fccb70d03b18c2f18ce330047441829c8d899daa711068376041",
+  "recorded_on": "2026-10-27",
+  "expected_lab_future_words": [
+    "ALREADY",
+    "INTENT",
+    "READ",
+    "CLOTHES"
+  ],
+  "expected_normal_startup_advance_matches": 0,
+  "sha256": {
+    "lab-forecast.json": "a3f8b49169cfb08604631c95659157b2e0ea027e249053d31be58fb6ae2e1558",
+    "lab-observations.jsonl": "5ec8abf410af9d47118d62a2e7aafadaca0922ca2764b57a7248028682276cd1",
+    "normal-forecast.json": "6dc06a57fb7f6d6c91ac7377f53d652d4de1b94a28b238cb16b27103729570f8",
+    "normal-observations.jsonl": "94b9eee824b08711fb3a1be50fa24498e28c981f42084afc2124d9b9341b4fe7"
+  }
+}

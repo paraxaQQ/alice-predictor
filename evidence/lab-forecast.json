@@ -1,0 +1,105 @@
+{
+  "created_utc": "2026-10-27T06:13:04.633135+00:00",
+  "method": "fixed batch predicted from one prior state; no subsequent state snapshots used to generate this batch",
+  "anchor": {
+    "event": "native_choice",
+    "number": 3,
+    "actual_index": 316,
+    "actual_word": "CHART",
+    "state_after": 4199959400,
+    "match": true,
+    "clock_index_match": false,
+    "negative_control_match": false,
+    "utc": "2026-10-27T06:12:45.798204+00:00"
+  },
+  "predictions": [
+    {
+      "word": "GREAT",
+      "index": 760,
+      "bank_size": 1053,
+      "state_before": 3200867972,
+      "state_after_shuffle": 3978375715,
+      "bank": 1,
+      "random_checks": 26,
+      "repeat_draw": 7,
+      "number": 4
+    },
+    {
+      "word": "ALREADY",
+      "index": 56,
+      "bank_size": 1053,
+      "state_before": 2613449789,
+      "state_after_shuffle": 206661608,
+      "bank": 1,
+      "random_checks": 40,
+      "repeat_draw": 3,
+      "number": 5
+    },
+    {
+      "word": "INTENT",
+      "index": 891,
+      "bank_size": 1053,
+      "state_before": 3049239991,
+      "state_after_shuffle": 416351450,
+      "bank": 1,
+      "random_checks": 27,
+      "repeat_draw": 4,
+      "number": 6
+    },
+    {
+      "word": "READ",
+      "index": 349,
+      "bank_size": 1098,
+      "state_before": 1467137099,
+      "state_after_shuffle": 387904069,
+      "bank": 0,
+      "random_checks": 5,
+      "repeat_draw": 6,
+      "number": 7
+    },
+    {
+      "word": "CLOTHES",
+      "index": 350,
+      "bank_size": 1053,
+      "state_before": 2276870020,
+      "state_after_shuffle": 1945528099,
+      "bank": 1,
+      "random_checks": 15,
+      "repeat_draw": 6,
+      "number": 8
+    },
+    {
+      "word": "NOISE",
+      "index": 132,
+      "bank_size": 1098,
+      "state_before": 3361120708,
+      "state_after_shuffle": 1824512550,
+      "bank": 0,
+      "random_checks": 33,
+      "repeat_draw": 6,
+      "number": 9
+    },
+    {
+      "word": "FOOT",
+      "index": 671,
+      "bank_size": 1053,
+      "state_before": 2151614154,
+      "state_after_shuffle": 2979953649,
+      "bank": 1,
+      "random_checks": 2,
+      "repeat_draw": 5,
+      "number": 10
+    },
+    {
+      "word": "TRIED",
+      "index": 766,
+      "bank_size": 1098,
+      "state_before": 2013933296,
+      "state_after_shuffle": 3755446322,
+      "bank": 0,
+      "random_checks": 0,
+      "repeat_draw": 9,
+      "number": 11
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "created_utc": "2026-10-27T06:57:30.341489+00:00",
+  "method": "fixed full sequence from one generator snapshot recorded while the original power switch was OFF; no post-start states or words used",
+  "seed": 1793084021,
+  "seed_utc": "2026-10-27T06:53:41+00:00",
+  "draws_already_consumed_while_off": 8,
+  "state_before_normal_power_click": 818618205,
+  "predictions": [
+    {
+      "word": "PILLOW",
+      "bank": 0,
+      "index": 234,
+      "bank_size": 1098,
+      "state_before": 1489783600,
+      "state_after": 164689522,
+      "random_checks": 4,
+      "number": 1
+    },
+    {
+      "word": "DAVID",
+      "bank": 1,
+      "index": 445,
+      "bank_size": 1053,
+      "state_before": 2772086705,
+      "state_after": 498487372,
+      "random_checks": 51,
+      "repeat_draw": 6,
+      "number": 2
+    },
+    {
+      "word": "CELLAR",
+      "bank": 1,
+      "index": 298,
+      "bank_size": 1053,
+      "state_before": 857569408,
+      "state_after": 699017839,
+      "random_checks": 50,
+      "repeat_draw": 0,
+      "number": 3
+    },
+    {
+      "word": "HILL",
+      "bank": 1,
+      "index": 826,
+      "bank_size": 1053,
+      "state_before": 313471258,
+      "state_after": 50749441,
+      "random_checks": 3,
+      "repeat_draw": 4,
+      "number": 4
+    },
+    {
+      "word": "PAULA",
+      "bank": 0,
+      "index": 1051,
+      "bank_size": 1098,
+      "state_before": 3750913850,
+      "state_after": 4164523788,
+      "random_checks": 1,
+      "repeat_draw": 6,
+      "number": 5
+    },
+    {
+      "word": "MIGHT DO",
+      "bank": 0,
+      "index": 27,
+      "bank_size": 1098,
+      "state_before": 3987464551,
+      "state_after": 978306497,
+      "random_checks": 39,
+      "repeat_draw": 3,
+      "number": 6
+    },
+    {
+      "word": "JESS",
+      "bank": 1,
+      "index": 913,
+      "bank_size": 1053,
+      "state_before": 604478581,
+      "state_after": 700823488,
+      "random_checks": 34,
+      "repeat_draw": 6,
+      "number": 7
+    },
+    {
+      "word": "SAINT",
+      "bank": 0,
+      "index": 430,
+      "bank_size": 1098,
+      "state_before": 2006133528,
+      "state_after": 3781852826,
+      "random_checks": 22,
+      "repeat_draw": 4,
+      "number": 8
+    },
+    {
+      "word": "FOCUS",
+      "bank": 1,
+      "index": 666,
+      "bank_size": 1053,
+      "state_before": 909420450,
+      "state_after": 3970238441,
+      "random_checks": 6,
+      "repeat_draw": 3,
+      "number": 9
+    },
+    {
+      "word": "BRASS",
+      "bank": 1,
+      "index": 227,
+      "bank_size": 1053,
+      "state_before": 2467290918,
+      "state_after": 1508557597,
+      "random_checks": 5,
+      "repeat_draw": 3,
+      "number": 10
+    }
+  ],
+  "old_three_draw_startup_model_words": [
+    "PILLOW",
+    "DAVID",
+    "CELLAR",
+    "HILL",
+    "PAULA",
+    "MIGHT DO",
+    "JESS",
+    "SAINT",
+    "FOCUS",
+    "BRASS"
+  ],
+  "basis_manifest_sha256": "f9e39e9e2c3c6f5102ef057a81bd78cbad968e312e4571b255a0dae7f1a20b21"
+}
